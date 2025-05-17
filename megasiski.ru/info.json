@@ -1,0 +1,40 @@
+{
+    "name": "мегасиськи",
+    "description": "Серьёзно несерьёзный и не ответственный хостинг для возможно ваших задач. Этот домен ахуителен и пиздат. От лица команды Frame лично рекомендуем!",
+    "verified": true,
+    "icon": "icon.png",
+    "articleUrl": "https://saberpedia.no/",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "пример",
+        "демонстрация",
+        "тест"
+    ],
+    "metadata": {
+        "owner": "Loroteaam",
+        "established": "2025",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "social": {
+        "telegram": "https://blog.yandex.ru",
+    },
+    "lastUpdated": "2025-05-17"
+}
