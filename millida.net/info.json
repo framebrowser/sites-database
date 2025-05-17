@@ -1,6 +1,7 @@
 {
     "name": "Millida",
     "description": "Крупная студия по созданию скинов и разработке проектов для Minecraft.",
+    "verified": false,
     "icon": "icon.png",
     "articleUrl": "https://saberpedia.no/Millida",
     "categories": [
