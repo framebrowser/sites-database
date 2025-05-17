@@ -1,0 +1,41 @@
+{
+    "name": "VepurOVK",
+    "description": "Форк и неофициальная (но признанная) инстанция OpenVK. Зачем — одному Вепуру известно.",
+    "verified": true,
+    "icon": "icon.png",
+    "articleUrl": "https://saberpedia.no/VepurOVK",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "пример",
+        "демонстрация",
+        "тест"
+    ],
+    "metadata": {
+        "owner": "SaursVepur",
+        "established": "2025",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "social": {
+        "telegram": "https://t.me/vepurovk",
+        "website": "https://vepurovk.xyz",
+    },
+    "lastUpdated": "2025-05-18"
+}
