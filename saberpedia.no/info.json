@@ -1,0 +1,39 @@
+{
+    "name": "Сейберпедия",
+    "description": "Вики, которую мы не хотели, но которую заслужили. Лучший сайт с интересными и прикольными статьями во всём Интернете.",
+    "icon": "icon.png",
+    "articleUrl": "https://saberpedia.no/",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "пример",
+        "демонстрация",
+        "тест"
+    ],
+    "metadata": {
+        "owner": "Сейберпедия",
+        "established": "2025",
+        "language": "ru",
+        "country": "UA"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "social": {
+        "telegram": "https://t.me/sbrpdk",
+    },
+    "lastUpdated": "2025-05-17"
+}
