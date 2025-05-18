@@ -1,0 +1,37 @@
+{
+    "name": "moonmuni",
+    "description": "Официальный сайт Мун Муныча, надеюсь вам будет интересно узнать про него больше))).",
+    "verified": true,
+    "icon": "icon.png",
+    "siteType": "Интернет-личность",
+    "articleUrl": "https://saberpedia.no",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "персона",
+        "визитка"
+    ],
+    "metadata": {
+        "owner": "moonmuni",
+        "established": "2025",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2025-05-18"
+}
