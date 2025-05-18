@@ -3,15 +3,15 @@
     "description": "Это расово российский мессенджер, созданный Павлом Дуровым в 2013-ом году, в результате обижничества к Российским властям. Позиционирует себя как полностью свободный мессенджер, хотя реальность показывает иную картинку.",
     "verified": true,
     "icon": "icon.png",
+    "siteType": "Мессенджер",
     "articleUrl": "https://saberpedia.no/Telegram",
     "categories": [
         "example",
         "demo"
     ],
     "tags": [
-        "пример",
-        "демонстрация",
-        "тест"
+        "мессенджер",
+        "общение"
     ],
     "metadata": {
         "owner": "Telegram FZ-LLC",
@@ -33,8 +33,8 @@
         "trackers": ["Google Analytics"],
         "cookies": true
     },
-    "social": {
-        "telegram": "https://blog.telegram.org",
+    "links": {
+        "blog": "https://telegram.org/blog",
     },
     "lastUpdated": "2025-05-17"
 }
