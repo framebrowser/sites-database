@@ -29,7 +29,7 @@
     "content": {
         "safe": true,
         "adultContent": false,
-        "ageRestriction": "0+"
+        "ageRestriction": "18+"
     },
     "analytics": {
         "trackers": ["Google Analytics"],
