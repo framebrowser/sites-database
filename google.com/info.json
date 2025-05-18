@@ -1,0 +1,41 @@
+{
+    "name": "Google",
+    "description": "Крупнейшая поисковая система во всём мире. Основана в 1998 году Ларри Пейджем и Сергеем Брином",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Поисковая система",
+    "articleUrl": "https://saberpedia.no/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "поиск",
+        "google"
+    ],
+    "links": {
+        "blog": "https://blog.google/",
+    },
+    "metadata": {
+        "owner": "Google LLC",
+        "established": "2025",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2025-05-18"
+}
