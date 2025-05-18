@@ -2,16 +2,18 @@
     "name": "Millida",
     "description": "Крупная студия по созданию скинов и разработке проектов для Minecraft.",
     "verified": false,
+    "scam": true,
     "icon": "icon.png",
+    "siteType": "Веб-студия",
     "articleUrl": "https://saberpedia.no/Millida",
     "categories": [
         "example",
         "demo"
     ],
     "tags": [
-        "пример",
-        "демонстрация",
-        "тест"
+        "minecraft",
+        "студия",
+        "веб"
     ],
     "metadata": {
         "owner": "Millida",
