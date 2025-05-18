@@ -1,0 +1,40 @@
+{
+    "name": "Telegram",
+    "description": "Это расово российский мессенджер, созданный Павлом Дуровым в 2013-ом году, в результате обижничества к Российским властям. Позиционирует себя как полностью свободный мессенджер, хотя реальность показывает иную картинку.",
+    "verified": true,
+    "icon": "icon.png",
+    "siteType": "Мессенджер",
+    "articleUrl": "https://saberpedia.no/Telegram",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "мессенджер",
+        "общение"
+    ],
+    "metadata": {
+        "owner": "Telegram FZ-LLC",
+        "established": "2025",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "links": {
+        "blog": "https://telegram.org/blog",
+    },
+    "lastUpdated": "2025-05-17"
+}
