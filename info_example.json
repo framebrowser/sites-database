@@ -1,0 +1,44 @@
+// Удалите "_example" с конца названия файла, чтобы всё работало
+
+{
+    "name": "Название",
+    "description": "Описание сайта",
+    "verified": true, // галочка
+    "scam": false, // скам (ну а хули, есть дауны в интернете)
+    "icon": "icon.png", // иконка сайта (желательно 64x64, это не менять)
+    "siteType": "Тип сайта", // тип сайта (к примеру: интернет-личность, хостинг, дрочильня)
+    "articleUrl": "https://saberpedia.no/PageName", // статья сайта или личности в Сейберпедии
+    "categories": [ // не рабочая хуйня, на будущее
+        "example",
+        "demo"
+    ],
+    "tags": [ // теги сайта (к примеру: браузер, интернет-личность, хостинг)
+        "пример",
+        "демонстрация",
+        "тест"
+    ],
+    "links": { // ссылки и ресурсы сайта
+        "telegram": "https://example.com"
+    },
+    "metadata": { // Мета-данные сайта (по сути данные о владельце)
+        "owner": "Name",
+        "established": "2025",
+        "language": "ru", // язык сайта
+        "country": "RU" // страна сайта
+    },
+    "security": { // не рабочая хуйня, на будущее
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": { // не рабочая хуйня, на будущее
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": { // не рабочая хуйня, на будущее
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2025-05-18"
+}
