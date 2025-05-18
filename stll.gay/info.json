@@ -1,0 +1,40 @@
+{
+    "name": "Stellesia",
+    "description": "Pretty young girl with a death wish. Got my mother's eyes and stardust on my lips",
+    "verified": true,
+    "icon": "icon.png",
+    "siteType": "Интернет-личность",
+    "articleUrl": "https://saberpedia.no/%D0%A0%D1%8D%D0%B9%D1%87%D0%B5%D0%BB_%D0%9F%D0%BE%D0%B4%D1%8F",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "персона",
+        "визитка"
+    ],
+    "metadata": {
+        "owner": "Stellesia (Rachel)",
+        "established": "2025",
+        "language": "en",
+        "country": "UA"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "links": {
+        "telegram": "https://t.me/Stellessia",
+    },
+    "lastUpdated": "2025-05-18"
+}
