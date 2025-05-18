@@ -1,0 +1,42 @@
+{
+    "name": "PornHub",
+    "description": "Адская дрочильня. Лучше бегите отсюда: тут порно, матюки, убийства и голые сисьски! Вам это не надо!",
+    "verified": false,
+    "icon": "icon.png",
+    "scam": true,
+    "siteType": "Видеохостинг",
+    "articleUrl": "https://saberpedia.no/PornHub",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "видеохостинг",
+        "дрочильня",
+        "титьки"
+    ],
+    "metadata": {
+        "owner": "Aylo",
+        "established": "2025",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "links": {
+        "website": "https://rt.pornhub.com",
+    },
+    "lastUpdated": "2025-05-17"
+}
