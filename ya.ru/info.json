@@ -1,8 +1,8 @@
 {
     "name": "Яндекс",
     "description": "Российская поисковая система, основанная Аркадием Воложем и Ильёй Сегаловичем.",
-    "verified": false,
-    "scam": true,
+    "verified": true,
+    "scam": false,
     "icon": "icon.png",
     "siteType": "Поисковая система",
     "articleUrl": "https://saberpedia.no/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81",
@@ -16,9 +16,7 @@
         "тест"
     ],
     "links": {
-        "website": "https://example.com",
-        "blog": "https://blog.example.com",
-        "docs": "https://docs.example.com"
+        "blog": "https://yandex.ru/blog/company",
     },
     "metadata": {
         "owner": "МКАО «Яндекс»",
@@ -39,11 +37,6 @@
     "analytics": {
         "trackers": ["Google Analytics"],
         "cookies": true
-    },
-    "social": {
-        "telegram": "https://blog.yandex.ru",
-        "website": "https://ya.ru",
-        "blog": "https://blog.yandex.ru",
     },
     "lastUpdated": "2025-05-17"
 }
