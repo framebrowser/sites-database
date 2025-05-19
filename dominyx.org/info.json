@@ -1,0 +1,39 @@
+{
+    "name": "DOMINYX",
+    "description": "Бесплатный регистратор субдоменов (поддоменов). Хостится на своих серверах. Больше нечего сказать.",
+    "verified": true,
+    "icon": "icon.png",
+    "articleUrl": "https://saberpedia.no/DOMINYX",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "хостинг",
+        "субдомены"
+    ],
+    "metadata": {
+        "owner": "DOMINYX GROUP",
+        "established": "2025",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "links": {
+        "telegram": "https://t.me/dominyxorg",
+    },
+    "lastUpdated": "2025-05-17"
+}
