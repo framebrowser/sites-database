@@ -1,0 +1,41 @@
+{
+    "name": "StaroWeb",
+    "description": "Проект, посвящённый старому Рунету. Мы покажем и расскажем вам, какой Интернет был в 90-ых и 2000-ых!",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Хостинг",
+    "articleUrl": "https://saberpedia.no/StaroWeb",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "хостинг"
+    ],
+    "links": {
+		"mail": "mailto:staroweb@truerox.ru",
+		"vk": "https://vk.com/staroweb"
+    },
+    "metadata": {
+        "owner": "H3lix & zhuzhun3000",
+        "established": "2025",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2025-05-23"
+}
