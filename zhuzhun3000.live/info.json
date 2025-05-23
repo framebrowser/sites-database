@@ -1,0 +1,41 @@
+{
+    "name": "zhuzhun3000's homepage",
+    "description": "Персональная страница одного из создателей StaroWeb, Олега (zhuzhun3000) Жужунова.",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Интернет-личность",
+    "articleUrl": "https://saberpedia.no/Олег_Жужунов",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "персона",
+        "визитка"
+    ],
+    "links": {
+		"telegram": "https://t.me/zhuzhun3000"
+    },
+    "metadata": {
+        "owner": "zhuzhun3000",
+        "established": "2025",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2025-05-23"
+}
