@@ -1,0 +1,42 @@
+{
+    "name": "Kolibra",
+    "description": "Семейство студий и холдинг-студия, разрабатывающая всё. Любопытный факт: они разработали Frame.",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Студия-холдинг",
+    "articleUrl": "https://saberpedia.no/Kolibra",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "студия",
+        "холдинг",
+        "dev"
+    ],
+    "links": {
+		    "vk": "https://vk.com/kolibra.group"
+    },
+    "metadata": {
+        "owner": "Kolibra",
+        "established": "2025",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "16+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2025-05-27"
+}
