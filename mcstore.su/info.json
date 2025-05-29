@@ -1,0 +1,42 @@
+{
+    "name": "mcstore",
+    "description": "Крутой магазин цифровых товаров и услуг по игре Minecraft",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Цифровой магазин",
+    "articleUrl": "https://saberpedia.no/mcstore",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "магазин",
+        "minecraft",
+        "игры"
+    ],
+    "links": {
+        "website": "https://mcstore.su",
+    },
+    "metadata": {
+        "owner": "mcstore",
+        "established": "2025",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2025-05-29"
+}
