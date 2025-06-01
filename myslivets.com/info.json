@@ -1,0 +1,41 @@
+{
+    "name": "Daniel Myslivets",
+    "description": "Официальный сайт легендарного видеоблогера Даниила Мысливца. Добро пожаловать!",
+    "verified": true,
+    "icon": "icon.png",
+    "siteType": "Интернет-личность",
+    "articleUrl": "https://saberpedia.no/Daniel_Myslivets",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "персона",
+        "визитка"
+    ],
+    "metadata": {
+        "owner": "Daniel Myslivets",
+        "established": "2025",
+        "language": "ru",
+        "country": "BY"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "links": {
+        "telegram": "https://t.me/daneo03",
+        "youtube": "https://www.youtube.com/@DanielM",
+    },
+    "lastUpdated": "2025-06-01"
+}
