@@ -1,0 +1,42 @@
+{
+    "name": "2ip.ru",
+    "description": "Сервис для просмотра информации об IP адресе. Позволяет смотреть информацию о провайдере и месте нахождения IP и многое другое.",
+    "verified": true,
+    "icon": "icon.png",
+    "scam": false,
+    "siteType": "Видеохостинг",
+    "articleUrl": "https://saberpedia.no/2ip",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "ip",
+        "сеть",
+        "интернет"
+    ],
+    "metadata": {
+        "owner": "2ip.ru",
+        "established": "2025",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "links": {
+        "website": "https://2ip.ru",
+    },
+    "lastUpdated": "2026-02-11"
+}
