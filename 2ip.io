@@ -1,0 +1,42 @@
+{
+    "name": "2ip.io",
+    "description": "Сервис для просмотра информации об IP адресе. Позволяет смотреть информацию о провайдере и месте нахождения IP и многое другое",
+    "verified": true,
+    "icon": "icon.png",
+    "scam": false,
+    "siteType": "Видеохостинг",
+    "articleUrl": "https://saberpedia.no/PornHub",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "ip",
+        "сеть",
+        "интернет"
+    ],
+    "metadata": {
+        "owner": "2ip.io",
+        "established": "2025",
+        "language": "en",
+        "country": "US"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "links": {
+        "website": "https://2ip.io",
+    },
+    "lastUpdated": "2026-02-11"
+}
