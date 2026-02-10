@@ -1,0 +1,41 @@
+{
+    "name": "YouTube",
+    "description": "Крупнейший видеохостинг, известный по всему миру. Является основным агрегатором видео с богатым содержимым и информацией.",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Видеохостинг",
+    "articleUrl": "https://saberpedia.no/YouTube",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "видео",
+        "google"
+    ],
+    "links": {
+        "blog": "https://blog.youtube/",
+    },
+    "metadata": {
+        "owner": "Google LLC",
+        "established": "2025",
+        "language": "en",
+        "country": "US"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2026-02-11"
+}
