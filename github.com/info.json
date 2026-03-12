@@ -1,0 +1,41 @@
+{
+    "name": "GitHub",
+    "description": "Крупнейший веб-сервис для хостинга IT-проектов и их совместной разработки.",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Система контроля версий",
+    "articleUrl": "https://saberpedia.no/GitHub",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "хостинг",
+        "git"
+    ],
+    "links": {
+        "blog": "https://github.blog/",
+    },
+    "metadata": {
+        "owner": "GitHub Inc.",
+        "established": "2026",
+        "language": "en",
+        "country": "US"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2026-03-12"
+}
