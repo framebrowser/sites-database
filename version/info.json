@@ -1,0 +1,41 @@
+{
+    "name": "Версия Frame",
+    "description": "Системная страничка браузера, детально показывающая информацию об установленном Frame. Эту страничку вы сможете увидеть во всех браузерах на базе Chromium. Только мы используем свой протокол для её показа.",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Сервисная страница",
+    "articleUrl": "https://t.me/framebrowserchannel",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "frame",
+        "версия"
+    ],
+    "links": {
+        "blog": "https://t.me/framebrowserchannel",
+    },
+    "metadata": {
+        "owner": "Kolibra",
+        "established": "2026",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2026-03-12"
+}
