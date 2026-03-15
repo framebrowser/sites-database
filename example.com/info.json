@@ -1,0 +1,54 @@
+{
+    "name": "Имя сайта / Site name",
+    "description": "Описание / Description",
+    "verified": false,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Тип сайта / Site type",
+    "articleUrl": "https://example.com",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "example",
+        "пример",
+        "site"
+    ],
+    "links": {
+        "blog": "https://blog.example.com",
+        "telegram": "https://t.me/example",
+        "website": "https://example.com",
+        "github": "https://github.com",
+        "twitter": "https://x.com",
+        "facebook": "https://facebook.com",
+        "instagram": "https://instagram.com",
+        "youtube": "https://youtube.com",
+        "linkedin": "https://linkedin.com",
+        "ovk": "https://openvk.org",
+        "vk": "https://vk.com",
+        "mastodon": "https://mastodon.social",
+        "mail": "name@example.com"
+    },
+    "metadata": {
+        "owner": "Owner",
+        "established": "2026",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2026-03-12"
+}
