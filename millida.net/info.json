@@ -1,8 +1,8 @@
 {
     "name": "Millida",
-    "description": "Крупная студия по созданию скинов и разработке проектов для Minecraft.",
-    "verified": true,
-    "scam": false,
+    "description": "Студия по созданию скинов и разработке проектов для Minecraft. Интересный факт: мобильная версия сайта не работает.",
+    "verified": false,
+    "scam": true,
     "icon": "icon.png",
     "siteType": "Веб-студия",
     "articleUrl": "https://saberpedia.no/Millida",
