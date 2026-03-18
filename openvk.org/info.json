@@ -1,0 +1,41 @@
+{
+    "name": "OpenVK",
+    "description": "Это социальная сеть с открытым исходным кодом и явление интернет-культуры, возникшая летом 2017 года благодаря усилиям Владимира Баринова и множеству других интернет-задротов.",
+    "verified": true,
+    "icon": "icon.png",
+    "articleUrl": "https://saberpedia.no/OpenVK",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "пример",
+        "демонстрация",
+        "тест"
+    ],
+    "metadata": {
+        "owner": "Фонд OpenVK",
+        "established": "2025",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "social": {
+        "telegram": "https://t.me/openvk",
+        "website": "https://ovk.to",
+    },
+    "lastUpdated": "2025-05-17"
+}
