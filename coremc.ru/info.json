@@ -1,0 +1,43 @@
+{
+    "name": "CoreMC",
+    "description": "CoreMC.Ru — авторский блог о разработке, веб-технологиях, игровых сообществах и собственных проектах.",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Медиапроект",
+    "articleUrl": "https://coremc.ru/",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "разработка",
+        "веб-технологии",
+        "игровые сообщества",
+        "блог"
+    ],
+    "links": {
+        "telegram": "https://t.me/tiplurka"
+    },
+    "metadata": {
+        "owner": "CoreMC",
+        "established": "2026",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2026-03-18"
+}
