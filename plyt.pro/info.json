@@ -1,0 +1,42 @@
+{
+    "name": "Plyt Platform",
+    "description": "Удобный маркетплейс каналов для размещения рекламы и интеграций. Покупайте рекламу, листая ленту каналов",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Маркетплейс каналов",
+    "articleUrl": "https://plyt.pro/",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "маркетплейс",
+        "реклама"
+    ],
+    "links": {
+        "telegram": "https://t.me/plytplatform",
+        "mail": "support@plyt.pro"
+    },
+    "metadata": {
+        "owner": "Plyt Platform",
+        "established": "2026",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2026-03-18"
+}

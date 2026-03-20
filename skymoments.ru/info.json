@@ -1,0 +1,44 @@
+{
+    "name": "SkyMoments",
+    "description": "SkyMoments — независимый медиапроект, посвящённый гражданской авиации.",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Медиапроект",
+    "articleUrl": "https://skymoments.ru/",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "авиация",
+        "медиа",
+        "блог"
+    ],
+    "links": {
+        "telegram": "https://t.me/skymoments_avia",
+        "vk": "https://vk.com/skymoments_avia",
+        "instagram": "https://instagram.com/skymoments_avia"
+    },
+    "metadata": {
+        "owner": "SkyMoments Group",
+        "established": "2026",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2026-03-18"
+}
