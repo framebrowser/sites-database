@@ -1,0 +1,44 @@
+{
+    "name": "BDModels",
+    "description": "Огромный каталог 3D-моделей для Minecraft, созданных с помощью BDEngine. Включает модели для различных версий игры и поддерживает фильтрацию по категориям и тегам.",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Инструмент для создания 3D-моделей в Minecraft",
+    "articleUrl": "https://saberpedia.no/Google",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "bdengine",
+        "minecraft"
+    ],
+    "links": {
+        "blog": "https://block-display.com/bdengine-updates/",
+        "telegram": "https://t.me/illystrayCreations",
+        "github": "https://github.com/illystray/bdengine",
+        "discord": "https://discord.com/invite/VCeHfSd6Xa"
+    },
+    "metadata": {
+        "owner": "Illystray Creations",
+        "established": "2026",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2025-05-21"
+}
