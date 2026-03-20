@@ -1,0 +1,41 @@
+{
+    "name": "Настройки Frame",
+    "description": "Через эти настройки вы можете управлять различными аспектами работы браузера, такими как внешний вид, безопасность, конфиденциальность и многое другое. Настройки позволяют вам персонализировать браузер в соответствии с вашими предпочтениями и потребностями.",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Настройки браузера",
+    "articleUrl": "https://t.me/framebrowserchannel",
+    "categories": [
+        "example",
+        "demo"
+    ],
+    "tags": [
+        "сервис",
+        "frame"
+    ],
+    "links": {
+        "blog": "https://t.me/framebrowserchannel"
+    },
+    "metadata": {
+        "owner": "Kolibra",
+        "established": "2026",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2026-03-12"
+}
