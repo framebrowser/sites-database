@@ -4,14 +4,16 @@
     "verified": true,
     "scam": false,
     "icon": "icon.png",
-    "siteType": "Хостинг",
+    "siteType": "Медиапроект",
     "articleUrl": "https://saberpedia.no/StaroWeb",
     "categories": [
-        "example",
-        "demo"
+        "новости-и-медиа",
+        "история"
     ],
     "tags": [
-        "хостинг"
+        "старый-рунет",
+        "история",
+        "медиа"
     ],
     "links": {
 		"mail": "mailto:staroweb@truerox.ru",

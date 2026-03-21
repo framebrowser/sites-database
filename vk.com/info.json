@@ -3,15 +3,15 @@
     "description": "Российская социальная сеть, созданная Павлом Дуровым и запущенная в 2006 году. Является русской пародией на Facebook.",
     "verified": true,
     "icon": "icon.png",
+    "siteType": "Социальная сеть",
     "articleUrl": "https://saberpedia.no/VK",
     "categories": [
-        "example",
-        "demo"
+        "социальные-сети"
     ],
     "tags": [
-        "пример",
-        "демонстрация",
-        "тест"
+        "социальная-сеть",
+        "vk",
+        "россия"
     ],
     "metadata": {
         "owner": "ООО «ВК»",

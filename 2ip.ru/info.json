@@ -4,11 +4,11 @@
     "verified": true,
     "icon": "icon.png",
     "scam": false,
-    "siteType": "Видеохостинг",
+    "siteType": "Сетевой сервис",
     "articleUrl": "https://saberpedia.no/2ip",
     "categories": [
-        "example",
-        "demo"
+        "инструменты",
+        "сетевые-сервисы"
     ],
     "tags": [
         "ip",
@@ -36,7 +36,7 @@
         "cookies": true
     },
     "links": {
-        "website": "https://2ip.ru",
+        "website": "https://2ip.ru"
     },
     "lastUpdated": "2026-02-11"
 }

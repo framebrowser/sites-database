@@ -7,12 +7,12 @@
     "siteType": "Система контроля версий",
     "articleUrl": "https://saberpedia.no/GitHub",
     "categories": [
-        "example",
-        "demo"
+        "разработка"
     ],
     "tags": [
         "хостинг",
-        "git"
+        "git",
+        "разработка"
     ],
     "links": {
         "blog": "https://github.blog/",

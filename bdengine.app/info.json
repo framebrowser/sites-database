@@ -4,15 +4,16 @@
     "verified": true,
     "scam": false,
     "icon": "icon.png",
-    "siteType": "Инструмент для создания 3D-моделей в Minecraft",
+    "siteType": "Инструмент",
     "articleUrl": "https://saberpedia.no/Google",
     "categories": [
-        "example",
-        "demo"
+        "инструменты",
+        "игры"
     ],
     "tags": [
         "bdengine",
-        "minecraft"
+        "minecraft",
+        "3d-модели"
     ],
     "links": {
         "blog": "https://block-display.com/bdengine-updates/",

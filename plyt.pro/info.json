@@ -4,11 +4,10 @@
     "verified": true,
     "scam": false,
     "icon": "icon.png",
-    "siteType": "Маркетплейс каналов",
+    "siteType": "Маркетплейс",
     "articleUrl": "https://plyt.pro/",
     "categories": [
-        "example",
-        "demo"
+        "маркетинг"
     ],
     "tags": [
         "маркетплейс",

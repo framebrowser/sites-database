@@ -3,15 +3,15 @@
     "description": "Форк и неофициальная (но признанная) инстанция OpenVK. Зачем — одному Вепуру известно.",
     "verified": true,
     "icon": "icon.png",
+    "siteType": "Социальная сеть",
     "articleUrl": "https://saberpedia.no/VepurOVK",
     "categories": [
-        "example",
-        "demo"
+        "социальные-сети"
     ],
     "tags": [
-        "пример",
-        "демонстрация",
-        "тест"
+        "социальная-сеть",
+        "openvk",
+        "open-source"
     ],
     "metadata": {
         "owner": "SaursVepur",

@@ -3,10 +3,10 @@
     "description": "Бесплатный регистратор субдоменов (поддоменов). Хостится на своих серверах. Больше нечего сказать.",
     "verified": true,
     "icon": "icon.png",
+    "siteType": "Регистратор субдоменов",
     "articleUrl": "https://saberpedia.no/DOMINYX",
     "categories": [
-        "example",
-        "demo"
+        "хостинг"
     ],
     "tags": [
         "хостинг",

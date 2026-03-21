@@ -4,15 +4,14 @@
     "verified": false,
     "scam": false,
     "icon": "icon.png",
-    "siteType": "Менеджер паролей",
+    "siteType": "Сервисная страница",
     "articleUrl": "https://t.me/framebrowserchannel",
     "categories": [
-        "example",
-        "demo"
+        "сервисы-frame"
     ],
     "tags": [
-        "поиск",
-        "яндекс"
+        "frame",
+        "ошибка"
     ],
     "links": {
         "blog": "https://t.me/framebrowserchannel",

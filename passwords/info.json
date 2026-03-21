@@ -7,12 +7,13 @@
     "siteType": "Менеджер паролей",
     "articleUrl": "https://t.me/framebrowserchannel",
     "categories": [
-        "example",
-        "demo"
+        "сервисы-frame",
+        "безопасность"
     ],
     "tags": [
-        "поиск",
-        "яндекс"
+        "frame",
+        "пароли",
+        "безопасность"
     ],
     "links": {
         "blog": "https://t.me/framebrowserchannel",
