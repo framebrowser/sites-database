@@ -1,26 +1,27 @@
 {
-    "name": "Google",
-    "description": "Крупнейшая поисковая система во всём мире. Основана в 1998 году Ларри Пейджем и Сергеем Брином",
+    "name": "Chrome Web Store",
+    "description": "Магазин расширений для Chromium-браузеров. Через него можно установить расширения для браузера Frame, а также для других браузеров на движке Chromium.",
     "verified": true,
     "scam": false,
     "icon": "icon.png",
-    "siteType": "Поисковая система",
-    "articleUrl": "https://saberpedia.no/Google",
+    "siteType": "Магазин расширений",
+    "articleUrl": "https://chromewebstore.google.com",
     "categories": [
-        "поиск"
+        "расширения",
+        "chrome"
     ],
     "tags": [
-        "поиск",
-        "google"
+        "webstore",
+        "расширения"
     ],
     "links": {
-        "blog": "https://blog.google/",
+        "website": "https://chromewebstore.google.com"
     },
     "metadata": {
         "owner": "Google LLC",
-        "established": "2025",
-        "language": "ru",
-        "country": "RU"
+        "established": "2026",
+        "language": "en",
+        "country": "US"
     },
     "security": {
         "https": true,
@@ -36,5 +37,5 @@
         "trackers": ["Google Analytics"],
         "cookies": true
     },
-    "lastUpdated": "2025-05-18"
+    "lastUpdated": "2026-03-21"
 }
