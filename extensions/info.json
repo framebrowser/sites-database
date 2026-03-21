@@ -1,17 +1,18 @@
 {
-    "name": "Ошибка страницы",
-    "description": "Тут не будет никакой информации. Просто напоминание о том, что с открытием сайта произошла оказия.",
-    "verified": false,
+    "name": "Расширения Frame",
+    "description": "Менеджер расширений для браузера Frame. Здесь будут отображаться все установленные расширения, а также их информация.",
+    "verified": true,
     "scam": false,
     "icon": "icon.png",
-    "siteType": "Сервисная страница",
+    "siteType": "Менеджер расширений",
     "articleUrl": "https://t.me/framebrowserchannel",
     "categories": [
-        "сервисы-frame"
+        "сервисы-frame",
+        "расширения"
     ],
     "tags": [
         "frame",
-        "ошибка"
+        "расширения"
     ],
     "links": {
         "blog": "https://t.me/framebrowserchannel"
