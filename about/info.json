@@ -1,0 +1,41 @@
+{
+    "name": "О браузере Frame",
+    "description": "Информация о браузере Frame. Здесь будут отображаться все основные сведения о браузере, его функциях и возможностях.",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Информационная страница",
+    "articleUrl": "https://t.me/framebrowserchannel",
+    "categories": [
+        "сервисы-frame",
+        "информация"
+    ],
+    "tags": [
+        "frame",
+        "информация"
+    ],
+    "links": {
+        "blog": "https://t.me/framebrowserchannel"
+    },
+    "metadata": {
+        "owner": "Kolibra",
+        "established": "2026",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2026-03-12"
+}
