@@ -1,0 +1,37 @@
+{
+  "name": "LunaStore",
+  "description": "Магазин приложений для ретро-любителей",
+  "verified": true,
+  "scam": false,
+  "icon": "icon.png",
+  "siteType": "Магазин приложений",
+  "articleUrl": "https://lunastore.app",
+  "categories": ["магазин", "каталог"],
+  "tags": ["приложения", "магазин", "myslivets"],
+  "links": {
+    "telegram": "https://t.me/lunastore_official",
+    "website": "https://lunastore.app",
+    "mail": "questions@myslivets.com"
+  },
+  "metadata": {
+    "owner": "DM Team",
+    "established": "2026",
+    "language": "ru",
+    "country": "RU"
+  },
+  "security": {
+    "https": true,
+    "certificates": ["Valid SSL"],
+    "warnings": []
+  },
+  "content": {
+    "safe": true,
+    "adultContent": false,
+    "ageRestriction": "0+"
+  },
+  "analytics": {
+    "trackers": ["Google Analytics"],
+    "cookies": true
+  },
+  "lastUpdated": "2026-03-22"
+}
