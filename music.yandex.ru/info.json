@@ -1,0 +1,45 @@
+{
+    "name": "Яндекс.Музыка",
+    "description": "Музыкальный стриминговый сервис компании «Яндекс», позволяющий слушать музыкальные композиции, их подборки, альбомы и получать персональные рекомендации.",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "Медиаплеер",
+    "articleUrl": "https://music.yandex.ru/",
+    "categories": [
+        "стриминг",
+        "музыка"
+    ],ы
+    "tags": [
+        "музыка",
+        "аудио",
+        "яндекс"
+    ],
+    "links": {
+        "telegram": "https://t.me/yandexmusic_live",
+        "website": "https://music.yandex.ru/",
+        "vk": "https://vk.com/yandexmusic",
+        "instagram": "https://www.instagram.com/music.yandex/"
+    },
+    "metadata": {
+        "owner": "МКАО «Яндекс»",
+        "established": "2026",
+        "language": "ru",
+        "country": "RU"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2026-04-02"
+}
