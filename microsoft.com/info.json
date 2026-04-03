@@ -1,0 +1,46 @@
+{
+    "name": "Microsoft Corporation",
+    "description": "Microsoft (или же «мелкомягкие») — создатели таких продуктов таких как Windows, Surface, Xbox и других. Это IT-компания, занимающаяся всем.",
+    "verified": true,
+    "scam": false,
+    "icon": "icon.png",
+    "siteType": "IT-компания",
+    "articleUrl": "https://www.microsoft.com/",
+    "categories": [
+        "it",
+        "компания",
+        "windows"
+    ],
+    "tags": [
+        "microsoft",
+        "it",
+        "компания"
+    ],
+    "links": {
+        "blog": "https://blogs.microsoft.com/",
+        "twitter": "https://x.com/Microsoft",
+        "instagram": "https://www.instagram.com/microsoft/",
+        "github": "https://github.com/microsoft"
+    },
+    "metadata": {
+        "owner": "Microsoft Corporation",
+        "established": "2026",
+        "language": "en",
+        "country": "US"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "lastUpdated": "2026-04-03"
+}
