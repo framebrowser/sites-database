@@ -1,0 +1,42 @@
+{
+    "name": "Сеть маршрутизатора",
+    "description": "Ваш маршрутизатор, возможно, имеет такой адрес. И если вы видите эту информацию в Frame, вероятнее всего, вы находитесь на странице вашего роутера.",
+    "verified": false,
+    "icon": "icon.png",
+    "scam": false,
+    "siteType": "Маршрутизатор",
+    "articleUrl": "http://192.168.1.1",
+    "categories": [
+        "инструменты",
+        "сетевые-сервисы"
+    ],
+    "tags": [
+        "ip",
+        "сеть",
+        "интернет"
+    ],
+    "metadata": {
+        "owner": "Автор отсутствует",
+        "established": "2025",
+        "language": "en",
+        "country": "US"
+    },
+    "security": {
+        "https": true,
+        "certificates": ["Valid SSL"],
+        "warnings": []
+    },
+    "content": {
+        "safe": true,
+        "adultContent": false,
+        "ageRestriction": "0+"
+    },
+    "analytics": {
+        "trackers": ["Google Analytics"],
+        "cookies": true
+    },
+    "links": {
+        "website": "http://192.168.1.1"
+    },
+    "lastUpdated": "2026-05-01"
+}
